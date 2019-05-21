@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 81d2fa50a89c9409ab55b3c0261651c2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zwizz
+  fontNames:
+  - Zwizz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 260ccf84cdec34b33b03533dc89ffb6d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
